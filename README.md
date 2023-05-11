@@ -9,3 +9,5 @@ Este proyecto fue desarrollado para la Competencia Iberoamericana de Satélites 
 En este proyecto fungí como lider de mi equipo, haciendo las tareas pertinentes para una correcta organización entre todos los integrantes del equipo. 
 Además, por la parte práctica, fui el encargado de realizar el diseño de todo el subsitema de electrónica del satélite, tanto de la carga primaria como de la secundaria. Además de la programación en C, de ambas etapas.
 
+Los archivos que desarrollé se pueden encontrar en la parte superior.
+
